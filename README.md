@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course Learning Python. The ful
 
 ![Learning Python][lil-thumbnail-url] 
 
-Python—the popular and highly-readable object-oriented language—is both powerful and relatively easy to learn. Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web.
+Python-the popular and highly-readable object-oriented language-is both powerful and relatively easy to learn. Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web.
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
@@ -27,3 +27,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/learning-python-14393370
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2896241/2896241-1637338967910-16x9.jpg
 
+
+
+*Note: Repository synchronized via Global SDLC script on 2026-03-09.*
